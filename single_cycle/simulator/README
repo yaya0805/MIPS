@@ -1,0 +1,2 @@
+type "make" to build the simulation environment
+type "make clean" to erase from the build tree the files built by make all
